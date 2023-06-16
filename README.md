@@ -1,7 +1,7 @@
 ### Aníbal Guijarro
 
 # 💫 About Me:
-I'm computer engineering student.<br>Java, C++, HTML, CSS, JavaScript, PHP, SQL<br>Fun fact: I like soccer 
+I'm computer engineering student at the University of Guadalajara.<br>Leadership, Self-taught, Team Player, Creative
 
 
 ## 🌐 Socials:
